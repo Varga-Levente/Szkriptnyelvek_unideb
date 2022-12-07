@@ -1,0 +1,762 @@
+[
+    {
+        "id": "tt9114286",
+        "title": "Black Panther: Wakanda Forever",
+        "rate": 7.3,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt10999120",
+        "title": "Spirited",
+        "rate": 6.6,
+        "genres": [
+            "Comedy",
+            "Family",
+            "Musical"
+        ]
+    },
+    {
+        "id": "tt9764362",
+        "title": "The Menu",
+        "rate": 7.5,
+        "genres": [
+            "Comedy",
+            "Horror",
+            "Thriller"
+        ]
+    },
+    {
+        "id": "tt1596342",
+        "title": "Disenchanted",
+        "rate": 5.7,
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": "tt17220704",
+        "title": "A Christmas Story Christmas",
+        "rate": 6.9,
+        "genres": [
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "id": "tt13320662",
+        "title": "Slumberland",
+        "rate": 6.7,
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "id": "tt9288822",
+        "title": "The Wonder",
+        "rate": 6.6,
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "id": "tt10168670",
+        "title": "Bones and All",
+        "rate": 7.3,
+        "genres": [
+            "Drama",
+            "Horror",
+            "Romance"
+        ]
+    },
+    {
+        "id": "tt6443346",
+        "title": "Black Adam",
+        "rate": 6.7,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": "tt0085334",
+        "title": "A Christmas Story",
+        "rate": 7.9,
+        "genres": [
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "id": "tt11564570",
+        "title": "Glass Onion: A Knives Out Mystery",
+        "rate": 8.0,
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt15474916",
+        "title": "Smile",
+        "rate": 6.7,
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "id": "tt10731256",
+        "title": "Don't Worry Darling",
+        "rate": 6.2,
+        "genres": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": "tt0461770",
+        "title": "Enchanted",
+        "rate": 7.1,
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": "tt9411972",
+        "title": "Where the Crawdads Sing",
+        "rate": 7.1,
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "id": "tt14208870",
+        "title": "The Fabelmans",
+        "rate": 8.2,
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt7322224",
+        "title": "Triangle of Sadness",
+        "rate": 7.7,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt10298840",
+        "title": "Strange World",
+        "rate": 4.7,
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": "tt0093748",
+        "title": "Planes, Trains & Automobiles",
+        "rate": 7.6,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt9071456",
+        "title": "The People We Hate at the Wedding",
+        "rate": 5.7,
+        "genres": [
+            "Comedy"
+        ]
+    },
+    {
+        "id": "tt10954984",
+        "title": "Nope",
+        "rate": 6.9,
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "id": "tt15791034",
+        "title": "Barbarian",
+        "rate": 7.1,
+        "genres": [
+            "Horror",
+            "Thriller"
+        ]
+    },
+    {
+        "id": "tt12593682",
+        "title": "Bullet Train",
+        "rate": 7.3,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Thriller"
+        ]
+    },
+    {
+        "id": "tt15501640",
+        "title": "Drishyam 2",
+        "rate": 8.7,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "id": "tt13560574",
+        "title": "X",
+        "rate": 6.6,
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "id": "tt14715170",
+        "title": "Falling for Christmas",
+        "rate": 5.2,
+        "genres": [
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "id": "tt14807308",
+        "title": "She Said",
+        "rate": 7.4,
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": "tt17076046",
+        "title": "Weird: The Al Yankovic Story",
+        "rate": 7.0,
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Music"
+        ]
+    },
+    {
+        "id": "tt1016150",
+        "title": "All Quiet on the Western Front",
+        "rate": 7.8,
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "id": "tt13833688",
+        "title": "The Whale",
+        "rate": 8.5,
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt1745960",
+        "title": "Top Gun: Maverick",
+        "rate": 8.4,
+        "genres": [
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt14641788",
+        "title": "Enola Holmes 2",
+        "rate": 6.8,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ]
+    },
+    {
+        "id": "tt15824322",
+        "title": "Christmas with You",
+        "rate": 5.5,
+        "genres": [
+            "Comedy",
+            "Family",
+            "Romance"
+        ]
+    },
+    {
+        "id": "tt13007592",
+        "title": "The Noel Diary",
+        "rate": 6.2,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": "tt11813216",
+        "title": "The Banshees of Inisherin",
+        "rate": 8.2,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt7693316",
+        "title": "Devotion",
+        "rate": 7.0,
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "id": "tt6710474",
+        "title": "Everything Everywhere All at Once",
+        "rate": 8.1,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": "tt10304142",
+        "title": "Amsterdam",
+        "rate": 6.1,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": "tt10403420",
+        "title": "Terrifier 2",
+        "rate": 6.3,
+        "genres": [
+            "Horror"
+        ]
+    },
+    {
+        "id": "tt0097958",
+        "title": "National Lampoon's Christmas Vacation",
+        "rate": 7.5,
+        "genres": [
+            "Comedy"
+        ]
+    },
+    {
+        "id": "tt8946378",
+        "title": "Knives Out",
+        "rate": 7.9,
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt1825683",
+        "title": "Black Panther",
+        "rate": 7.3,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "id": "tt14444726",
+        "title": "Tár",
+        "rate": 7.9,
+        "genres": [
+            "Drama",
+            "Music"
+        ]
+    },
+    {
+        "id": "tt13640696",
+        "title": "See How They Run",
+        "rate": 6.5,
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ]
+    },
+    {
+        "id": "tt1488589",
+        "title": "Guillermo del Toro's Pinocchio",
+        "rate": 8.1,
+        "genres": [
+            "Animation",
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "id": "tt10343028",
+        "title": "Armageddon Time",
+        "rate": 6.7,
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt15327088",
+        "title": "Kantara",
+        "rate": 8.8,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt0499549",
+        "title": "Avatar",
+        "rate": 7.8,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": "tt12003946",
+        "title": "Violent Night",
+        "rate": 7.1,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "id": "tt21094994",
+        "title": "R.I.P.D. 2: Rise of the Damned",
+        "rate": 4.5,
+        "genres": [
+            "Action",
+            "Comedy"
+        ]
+    },
+    {
+        "id": "tt0101272",
+        "title": "The Addams Family",
+        "rate": 6.9,
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": "tt0099785",
+        "title": "Home Alone",
+        "rate": 7.7,
+        "genres": [
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "id": "tt14714980",
+        "title": "Poker Face",
+        "rate": 5.1,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "id": "tt18925334",
+        "title": "Pearl",
+        "rate": 7.0,
+        "genres": [
+            "Horror"
+        ]
+    },
+    {
+        "id": "tt8093700",
+        "title": "The Woman King",
+        "rate": 6.7,
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": "tt4273800",
+        "title": "The Good Nurse",
+        "rate": 6.8,
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt10648342",
+        "title": "Thor: Love and Thunder",
+        "rate": 6.3,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": "tt5533370",
+        "title": "Lamborghini: The Man Behind the Legend",
+        "rate": 5.2,
+        "genres": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ]
+    },
+    {
+        "id": "tt21819228",
+        "title": "Stutz",
+        "rate": 8.0,
+        "genres": [
+            "Documentary"
+        ]
+    },
+    {
+        "id": "tt0068646",
+        "title": "The Godfather",
+        "rate": 9.2,
+        "genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt1877830",
+        "title": "The Batman",
+        "rate": 7.8,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt14109724",
+        "title": "Ticket to Paradise",
+        "rate": 6.2,
+        "genres": [
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "id": "tt7846844",
+        "title": "Enola Holmes",
+        "rate": 6.6,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ]
+    },
+    {
+        "id": "tt11138512",
+        "title": "The Northman",
+        "rate": 7.1,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt3447590",
+        "title": "Matilda the Musical",
+        "rate": 7.5,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "id": "tt14668630",
+        "title": "Lyle, Lyle, Crocodile",
+        "rate": 6.1,
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": "tt13139228",
+        "title": "My Policeman",
+        "rate": 6.5,
+        "genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": "tt0319343",
+        "title": "Elf",
+        "rate": 7.0,
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "id": "tt8745676",
+        "title": "The Swimmers",
+        "rate": 7.5,
+        "genres": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ]
+    },
+    {
+        "id": "tt0314331",
+        "title": "Love Actually",
+        "rate": 7.6,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "id": "tt0111070",
+        "title": "The Santa Clause",
+        "rate": 6.5,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "id": "tt4960748",
+        "title": "Till",
+        "rate": 7.2,
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": "tt0096446",
+        "title": "Willow",
+        "rate": 7.2,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt0106220",
+        "title": "Addams Family Values",
+        "rate": 6.8,
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": "tt0092099",
+        "title": "Top Gun",
+        "rate": 6.9,
+        "genres": [
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt10644708",
+        "title": "Dhokha",
+        "rate": 7.0,
+        "genres": [
+            "Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "id": "tt4281724",
+        "title": "Terrifier",
+        "rate": 5.6,
+        "genres": [
+            "Horror",
+            "Thriller"
+        ]
+    },
+    {
+        "id": "tt0170016",
+        "title": "How the Grinch Stole Christmas",
+        "rate": 6.2,
+        "genres": [
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": "tt0111161",
+        "title": "The Shawshank Redemption",
+        "rate": 9.3,
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "id": "tt0241527",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "rate": 7.6,
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ]
+    }
+]
